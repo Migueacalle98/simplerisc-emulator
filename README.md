@@ -46,11 +46,11 @@ python3 main.py -h
 
 ## Examples:
 ```
-python3 main.py test1.asc
-python3 main.py test2.asc -t
-python3 main.py test3.asc -s
-python3 main.py test4.asc -n
-python3 main.py test5.asc -t -s -n
+python3 main.py test1.asm
+python3 main.py test2.asm -t
+python3 main.py test3.asm -s
+python3 main.py test4.asm -n
+python3 main.py test5.asm -t -s -n
 ```
 ### Examples tests are as follows:
 
